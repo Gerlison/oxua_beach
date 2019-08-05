@@ -77,20 +77,23 @@ a {
 }
 
 .slick-dots li {
-  margin: 14px;
+  padding: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
 }
 
 .slick-dots button {
   color: #fff;
   background: #fff;
   border: none;
-  width: 10px;
-  height: 10px;
+  width: 5px;
+  height: 5px;
   border-radius: 5px;
-  box-shadow: 0px 1px 2px 0 #0008;  
+  box-shadow: 0px 1px 2px 0 #0003;  
   font-size: 0;
-  cursor: pointer;
+  transition: all .3s;
 }
 .slick-dots button[aria-selected="true"] {
-  background-color: blue;
+  transform: scale(1.5);
 }
