@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+/* Header */
+#header-slider {
+  width: 100%;
+}
+.img-fluid {
+  background-position: center;
+}
