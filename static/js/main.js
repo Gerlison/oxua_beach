@@ -4,9 +4,15 @@ $(document).ready(function() {
     .append(
       `
       <div>
+        <p class="slider-caption">Donec sollicitudin molestie malesuada.</p>
         <img class="img-fluid" src="./assets/images/image.png" alt="" />
       </div>
       <div>
+        <p class="slider-caption">Donec sollicitudin molestie malesuada.</p>
+        <img class="img-fluid" src="./assets/images/image.png" alt="" />
+      </div>
+      <div>
+        <p class="slider-caption">Donec sollicitudin molestie malesuada.</p>
         <img class="img-fluid" src="./assets/images/image.png" alt="" />
       </div>
       `
