@@ -12,10 +12,6 @@ const menu = [
     link: "#"
   },
   {
-    label: "SAÍDAS",
-    link: "#"
-  },
-  {
     label: "SALE",
     link: "#"
   }
@@ -162,10 +158,6 @@ const footer = [
         label: "Bodies",
         link: "#"
       },
-      {
-        label: "Saídas",
-        link: "#"
-      }
     ]
   }
 ];
